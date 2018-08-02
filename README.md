@@ -1,4 +1,4 @@
- # Treets Sentiment Analysis
+ # Tweets Sentiment Analysis
  
  ## Summary
  
