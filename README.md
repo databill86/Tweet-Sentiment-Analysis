@@ -14,4 +14,4 @@
 * Programming Language: Python 2.7
 
  ## Preview
- ![Preview1](https://github.com/a87009751/Treets-Sentiment-Analysis/blob/master/preview1.JPG?raw=true)
+ ![Preview1](https://github.com/a87009751/Treets-Sentiment-Analysis/blob/master/Preview1.JPG?raw=true)
